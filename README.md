@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my degree
+- 🌱 I’m currently learning git/github
+
+
+
 
 <!--
 **woznin/woznin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
