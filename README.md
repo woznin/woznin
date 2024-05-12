@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my degree
-- 🌱 I’m currently learning git/github
+🔭 I’m currently working on my degree
 
 
 
